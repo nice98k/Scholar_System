@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-10.0.2">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/网盘/java 学生成绩管理系统/studentLogin/lib/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="G:/网盘/java 学生成绩管理系统/studentLogin/lib/JSpaces-0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
